@@ -1,6 +1,13 @@
 # TikTok.py
 REPORT TOOL ⚡
 
+pkg update && pkg upgrade -y
+pkg install python git -y
+git clone https://github.com/awaraalak188-code/TikTok.py.git
+cd KidNapper-TIKTOK-REPORT-TOOL
+python Tiktok.py
+
+
 Admin by @KidNapperking
 
 ￼
